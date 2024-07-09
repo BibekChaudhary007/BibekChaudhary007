@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BibekChaudhary007
-- 👀 I’m interested in Java Javascript Nodejs , Reactjs 
+- 👀 I’m interested in Java Javascript Nodejs  Reactjs 
 - 🌱 I’m currently learning and implementing
 - 💞️ I’m looking to collaborate on diffrent technology 
 - 📫 How to reach me https://www.instagram.com/_bibek___007/
